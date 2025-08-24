@@ -14,7 +14,7 @@ This project demonstrates a modern, cloud-native architecture deployed on **Amaz
 ---
 
 ## Architecture Diagram
-![lucidchart diagram](images/architecture.png)
+![lucidchart diagram](architecture.png)
 
 ---
 
